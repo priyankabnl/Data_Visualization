@@ -11,5 +11,5 @@ Project Data:
 
 BayArea_BikeShare.ipynb - performed Data Analysis procoess in this jupyter notebook. BayArea_BikeShare.ipynb - html output of analysis. readme.md - Brief description of the project
 
-Summary of Findings
+Summary of Findings:
 In the exploration, I found that there were more males riding and renting a bike as compared to the female population and also, the busiest time is 8.00 AM and 5 PM on a weekday. Bikes were more used on weekdays than on weekends.
